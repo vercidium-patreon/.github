@@ -10,7 +10,7 @@ By sponsoring this GitHub organisation or [joining my Patreon](https://patreon.c
 - Modern voxel rendering featured in [this video](https://www.youtube.com/watch?v=40JzyaOYJeY)
 - Lag compensation and packet delay detection featured in [this article](https://www.patreon.com/posts/114736115)
 
-The Raytraced Audio plugin is not available yet. You can [register your expression of interest here](https://forms.gle/aJ8pGPmzMb8YoZHf9).
+The Raytraced Audio plugin is not available yet. You can [register your interest here](https://forms.gle/aJ8pGPmzMb8YoZHf9).
 
 If you're here for the free stuff, check out:
 - [Greedy Voxel Meshing](https://github.com/vercidium-patreon/meshing)
